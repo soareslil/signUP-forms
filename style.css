@@ -8,8 +8,11 @@
     font-family: "Poppins", sans-serif;
 }
 
+
+
 body {
-    background: #1B2029;
+    /* background: #1B2029; */
+background-image: url(https://i.pinimg.com/originals/96/05/99/9605999dce6d416e9f757337f7af5073.jpg);
     color: white;
     font-weight: 500;
     display: flex;
