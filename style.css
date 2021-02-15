@@ -8,8 +8,11 @@
     font-family: "Poppins", sans-serif;
 }
 
+
+
 body {
-    background: #1B2029;
+    /* background: #1B2029; */
+background-image: url(https://i.pinimg.com/originals/96/05/99/9605999dce6d416e9f757337f7af5073.jpg);
     color: white;
     font-weight: 500;
     display: flex;
@@ -128,7 +131,7 @@ section.images img {
     width: 90%;
 }
 
-/* section.images .circle {
+section.image .circle {
     position: absolute;
     height: 100%;
     width: 100%;
@@ -137,4 +140,4 @@ section.images img {
     background: linear-gradient(45deg, #E8CBC0, #636FA4);
     clip-path: circle(40% at right 80%);
     z-index: -1;
-} */
+}
