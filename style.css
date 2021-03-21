@@ -9,11 +9,10 @@
 }
 
 
-
 body {
     /* background: #1B2029; */
 background-image: url(https://i.pinimg.com/originals/96/05/99/9605999dce6d416e9f757337f7af5073.jpg);
-    color: white;
+    color: #8880FE;
     font-weight: 500;
     display: flex;
     min-height: 100vh;
@@ -58,7 +57,7 @@ main .alternative {
 main .alternative span {
     font-size: 1.1rem;
     font-weight: 400;
-    color: rgba(255, 255, 255, 0.3);
+    color: #8880FE;
     position: relative;
 }
 
@@ -69,7 +68,7 @@ main .alternative span::before, main .alternative span::after {
     width: 100px;
     bottom: 50%;
     right: 50px;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(134, 21, 21, 0.3);
 }
 
 main .alternative span::after {
