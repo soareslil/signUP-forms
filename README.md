@@ -1,6 +1,8 @@
 # signUP-forms
 
-Projeto Formulário simples 
+Projeto do tipo Formulário simples 
+
+##Linguagens utilizadas no projeto:
 
 - HTML 
 - CSS
