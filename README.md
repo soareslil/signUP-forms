@@ -6,7 +6,7 @@ Projeto do tipo Formulário simples
 
 - HTML 
 - CSS
-- RTL 
+ 
 
 ### Requisitos a serem desenvolvidos no projeto: 
 
@@ -24,4 +24,4 @@ Projeto do tipo Formulário simples
 
 - [ ] Deve conter um botão de login com o facebook 
 
-- [ ] Deve conter testes em react
+
