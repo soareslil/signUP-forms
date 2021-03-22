@@ -5,7 +5,7 @@ Projeto Formulário simples
 - HTML 
 - CSS
 
--[x] Deve conter um header com o nome do projeto 
+- [ ] Deve conter um header com o nome do projeto 
 
 -[] Deve conter um input do tipo Email 
 
