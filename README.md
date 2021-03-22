@@ -10,7 +10,7 @@ Projeto do tipo Formulário simples
 
 ### Requisitos a serem desenvolvidos no projeto: 
 
-- [ ] Deve conter um header com o nome do projeto 
+- [x] Deve conter um header com o nome do projeto 
 
 - [ ] Deve conter um input do tipo Email 
 
@@ -20,8 +20,8 @@ Projeto do tipo Formulário simples
 
 - [ ] Deve conter um input do tipo botão submit
 
-- [ ] Deve conter um botão de login com o google
+- [ ] Deve conter a opção de login com o Google
 
-- [ ] Deve conter um botão de login com o facebook 
+- [ ] Deve conter a opção de login com o Facebook 
 
-
+- [ ] Deve conter um botão de login com o LinkedIn
