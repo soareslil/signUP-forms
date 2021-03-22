@@ -12,7 +12,7 @@ Projeto do tipo Formulário simples
 
 - [x] Deve conter um header com o nome do projeto 
 
-- [ x ] Deve conter um input do tipo Email com verificação de funcionalidade
+- [x] Deve conter um input do tipo Email com verificação de funcionalidade
 
 - [x] Deve conter um input do tipo Nome de usuário
 
