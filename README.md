@@ -8,7 +8,7 @@ Projeto do tipo Formulário simples
 - CSS
  
 
-### Requisitos a serem desenvolvidos no projeto: 
+### Requisitos desenvolvidos no projeto: 
 
 - [x] Deve conter um header com o nome do projeto 
 
