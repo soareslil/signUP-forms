@@ -12,16 +12,16 @@ Projeto do tipo Formulário simples
 
 - [x] Deve conter um header com o nome do projeto 
 
-- [] Deve conter um input do tipo Email com verificação de funcionalidade
+- [ x ] Deve conter um input do tipo Email com verificação de funcionalidade
 
-- [v] Deve conter um input do tipo Nome de usuário
+- [x] Deve conter um input do tipo Nome de usuário
 
-- [ ] Deve conter um input do tipo Password
+- [x] Deve conter um input do tipo Password
 
-- [ ] Deve conter um input do tipo botão submit
+- [x] Deve conter um input do tipo botão submit
 
-- [ ] Deve conter a opção de login com o Google
+- [x] Deve conter a opção de login com o Google
 
-- [ ] Deve conter a opção de login com o Facebook 
+- [x] Deve conter a opção de login com o Facebook 
 
-- [ ] Deve conter um botão de login com o LinkedIn
+- [x] Deve conter um botão de login com o LinkedIn
