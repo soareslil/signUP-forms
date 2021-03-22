@@ -6,6 +6,7 @@ Projeto do tipo Formulário simples
 
 - HTML 
 - CSS
+- RTL 
 
 ### Requisitos a serem desenvolvidos no projeto: 
 
