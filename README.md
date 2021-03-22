@@ -2,10 +2,12 @@
 
 Projeto do tipo Formulário simples 
 
-##Linguagens utilizadas no projeto:
+## Linguagens utilizadas no projeto:
 
 - HTML 
 - CSS
+
+### Requisitos a serem desenvolvidos no projeto: 
 
 - [ ] Deve conter um header com o nome do projeto 
 
